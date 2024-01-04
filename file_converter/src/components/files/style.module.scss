@@ -1,0 +1,13 @@
+.fileItemContainer {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+  width: 85%;
+  -webkit-box-shadow: 1px -5px 13px 1px rgba(174, 174, 174, 0.2);
+  -moz-box-shadow: 1px -5px 13px 1px rgba(174, 174, 174, 0.2);
+  box-shadow: 1px -5px 13px 1px rgba(174, 174, 174, 0.2);
+
+  svg {
+    cursor: pointer;
+  }
+}
